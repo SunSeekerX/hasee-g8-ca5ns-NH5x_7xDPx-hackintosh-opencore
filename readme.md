@@ -18,6 +18,11 @@
 
 ![product-02](./assets/product-02.webp)
 
+## Bios 设置
+
+- 硬盘模式改 AHCI
+- 其他的自己摸索下，好像就改了这个，这个机型的 bios 配置很少，网上有 vbios 可以刷，没试过
+
 ## 安装说明
 
 - 记得换三码，里面自带的序列号是随机的
@@ -71,10 +76,27 @@
 
   个人看法：不需要这里功能
 
-## Bios   设置
+## 系统截图
 
-- 硬盘模式改 AHCI
-- 其他的自己摸索下，好像就改了这个，这个机型的 bios 配置很少，网上有 vbios 可以刷，没试过
+![iShot_2022-12-15_01.06.24](./assets/iShot_2022-12-15_01.06.24.webp)
+
+| Describe   | screenshot                                                   |
+| ---------- | ------------------------------------------------------------ |
+| 静音       | <img src="./assets/iShot_2022-12-15_01.07.20.webp" alt="iShot_2022-12-15_01.07.20" style="zoom:25%;" /> |
+| 亮度快捷键 | <img src="./assets/iShot_2022-12-15_01.07.31.webp" alt="iShot_2022-12-15_01.07.31" style="zoom:25%;" /> |
+| Nvme       | <img src="./assets/iShot_2022-12-15_01.08.12.webp" alt="iShot_2022-12-15_01.08.12" style="zoom: 50%;" /> |
+| USB        | <img src="./assets/iShot_2022-12-15_01.08.26.webp" alt="iShot_2022-12-15_01.08.26" style="zoom:50%;" /> |
+| 以太网     | <img src="./assets/iShot_2022-12-15_01.08.29.webp" alt="iShot_2022-12-15_01.08.29" style="zoom:50%;" /> |
+| 内存       | <img src="./assets/iShot_2022-12-15_01.08.40.webp" alt="iShot_2022-12-15_01.08.40" style="zoom:50%;" /> |
+| 显卡       | <img src="./assets/iShot_2022-12-15_01.08.44.webp" alt="iShot_2022-12-15_01.08.44" style="zoom:50%;" /> |
+| 摄像头     | <img src="./assets/iShot_2022-12-15_01.08.52.webp" alt="iShot_2022-12-15_01.08.52" style="zoom:50%;" /> |
+| 电源       | <img src="./assets/iShot_2022-12-15_01.08.55.webp" alt="iShot_2022-12-15_01.08.55" style="zoom:50%;" /> |
+| 蓝牙       | <img src="./assets/iShot_2022-12-15_01.08.58.webp" alt="iShot_2022-12-15_01.08.58" style="zoom:50%;" /> |
+| 读卡器     | <img src="./assets/iShot_2022-12-15_01.09.05.webp" alt="iShot_2022-12-15_01.09.05" style="zoom:50%;" /> |
+| 音频       | <img src="./assets/iShot_2022-12-15_01.09.12.webp" alt="iShot_2022-12-15_01.09.12" style="zoom:50%;" /> |
+| WIFI       | <img src="./assets/iShot_2022-12-15_01.09.19.webp" alt="iShot_2022-12-15_01.09.19" style="zoom:50%;" /> |
+
+
 
 ## 参考
 
